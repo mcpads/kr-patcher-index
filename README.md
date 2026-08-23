@@ -23,6 +23,12 @@
 | 마도물어 III | [gg-madou3-kr-patcher](https://github.com/mcpads/gg-madou3-kr-patcher) | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
 | 마도물어 A | [gg-madoua-kr-patcher](https://github.com/mcpads/gg-madoua-kr-patcher) | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
 
+## 게임보이 컬러
+
+| 게임 | 패처 코드 | 패치 배포 |
+| --- | --- | --- |
+| 아르르의 모험 마법의 주얼 | [gbc-arle-no-bouken-kr-patcher](https://github.com/mcpads/gbc-arle-no-bouken-kr-patcher) | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
+
 ## 슈퍼패미컴
 
 | 게임 | 패처 코드 | 패치 배포 |
