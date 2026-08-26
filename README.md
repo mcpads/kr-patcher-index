@@ -1,6 +1,6 @@
-# 한글 패처 코드베이스 모음
+# 기기별 한글 패치 및 패처 모음
 
-공개된 한글 패처 코드베이스를 기기별로 정리한 목록입니다. 패치는 각 배포 저장소에서 받을 수 있습니다.
+공개된 한글 패치와 패처 코드베이스를 기기별로 정리한 목록입니다. 패치는 각 배포 저장소에서 받을 수 있습니다.
 
 ## 패미컴
 
@@ -56,9 +56,11 @@
 | 게임 | 패처 코드 | 패치 배포 |
 | --- | --- | --- |
 | 뿌요뿌욘 | [dc-puyo-puyon-kr-patcher](https://github.com/mcpads/dc-puyo-puyon-kr-patcher) | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch) |
+| 뿌요뿌요 DA! | — | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch) |
 
 ## PC-98
 
 | 게임 | 패처 코드 | 패치 배포 |
 | --- | --- | --- |
 | 마도물어 1-2-3 | [pc98-madou123-kr-patcher](https://github.com/mcpads/pc98-madou123-kr-patcher) | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
+| 마도물어 도초이문 | — | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
