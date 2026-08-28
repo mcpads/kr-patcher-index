@@ -64,3 +64,5 @@
 | --- | --- | --- |
 | 마도물어 1-2-3 | [pc98-madou123-kr-patcher](https://github.com/mcpads/pc98-madou123-kr-patcher) | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
 | 마도물어 도초이문 | — | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
+| 대마도전략물어'95 | — | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
+| 키키모라의 청소 대작전 | — | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
