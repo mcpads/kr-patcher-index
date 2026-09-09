@@ -51,6 +51,12 @@
 | 마도물어 | [ss-madou-kr-patcher](https://github.com/mcpads/ss-madou-kr-patcher) | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
 | 와쿠와쿠 뿌요뿌요 던전 | [ss-waku-puyo-kr-patcher](https://github.com/mcpads/ss-waku-puyo-kr-patcher) | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
 
+## PlayStation
+
+| 게임 | 패처 코드 | 패치 배포 |
+| --- | --- | --- |
+| 와쿠와쿠 뿌요뿌요 던전 완전판 | — | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch/tree/main/ps1-waku-puyo) |
+
 ## 드림캐스트
 
 | 게임 | 패처 코드 | 패치 배포 |
