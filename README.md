@@ -7,6 +7,7 @@
 | 게임 | 패처 코드 | 패치 배포 |
 | --- | --- | --- |
 | 파로디우스다! | [fc-parodius-da-kr-patcher](https://github.com/mcpads/fc-parodius-da-kr-patcher) | [parodius-kr-patch](https://github.com/mcpads/parodius-kr-patch) |
+| 파이어 엠블렘 암흑룡과 빛의 검 | [fc-fire-emblem-shadow-dragon](https://github.com/mcpads/fc-fire-emblem-shadow-dragon) | [fc-fire-emblem-shadow-dragon](https://github.com/mcpads/fc-fire-emblem-shadow-dragon) |
 
 ## 메가드라이브
 
@@ -56,6 +57,14 @@
 | 게임 | 패처 코드 | 패치 배포 |
 | --- | --- | --- |
 | 와쿠와쿠 뿌요뿌요 던전 완전판 | — | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch/tree/main/ps1-waku-puyo) |
+| 뿌요뿌요 BOX | — | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch/tree/main/ps1-puyopuyo-box) |
+| 사립 저스티스 학원 열혈청춘일기 2 | — | [justice-gakuen2-kr-patch](https://github.com/mcpads/justice-gakuen2-kr-patch) |
+
+## PlayStation 2
+
+| 게임 | 패처 코드 | 패치 배포 |
+| --- | --- | --- |
+| 뿌요뿌요 2 퍼펙트 셋 | — | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch/tree/main/ps2-puyopuyo2-perfect-set) |
 
 ## 드림캐스트
 
