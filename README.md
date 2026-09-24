@@ -78,6 +78,7 @@
 | 게임 | 패처 코드 | 패치 배포 |
 | --- | --- | --- |
 | 마도물어 II | — | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch/tree/main/msx2-madou2) |
+| 마도사 랄바 | — | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch/tree/main/msx2-lulba) |
 
 ## PC-98
 
