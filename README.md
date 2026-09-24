@@ -73,6 +73,12 @@
 | 뿌요뿌욘 | [dc-puyo-puyon-kr-patcher](https://github.com/mcpads/dc-puyo-puyon-kr-patcher) | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch) |
 | 뿌요뿌요 DA! | — | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch) |
 
+## MSX2
+
+| 게임 | 패처 코드 | 패치 배포 |
+| --- | --- | --- |
+| 마도물어 II | — | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch/tree/main/msx2-madou2) |
+
 ## PC-98
 
 | 게임 | 패처 코드 | 패치 배포 |
