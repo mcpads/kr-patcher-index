@@ -66,6 +66,12 @@
 | --- | --- | --- |
 | 뿌요뿌요 2 퍼펙트 셋 | — | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch/tree/main/ps2-puyopuyo2-perfect-set) |
 
+## 닌텐도 DS
+
+| 게임 | 패처 코드 | 패치 배포 |
+| --- | --- | --- |
+| 뿌요뿌요!! 20주년 기념판 | — | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch/tree/main/nds-puyo20) |
+
 ## PSP
 
 | 게임 | 패처 코드 | 패치 배포 |
