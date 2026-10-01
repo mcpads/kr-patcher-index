@@ -34,6 +34,7 @@
 
 | 게임 | 패처 코드 | 패치 배포 |
 | --- | --- | --- |
+| 슈퍼 뿌요뿌요 2 리믹스 | — | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch/tree/main/sfc-puyopuyo2-remix) |
 | 마도물어 하나마루 대유치원아 | [sfc-madou-kr-patcher](https://github.com/mcpads/sfc-madou-kr-patcher) | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
 | 슈퍼 뿌요뿌요 2 | [sfc-puyopuyo2-kr-patcher](https://github.com/mcpads/sfc-puyopuyo2-kr-patcher) | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch) |
 | 슈퍼 나조 뿌요 1 | [sfc-nazo-rulue1-kr-patcher](https://github.com/mcpads/sfc-nazo-rulue1-kr-patcher) | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch) |
