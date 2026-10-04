@@ -34,13 +34,13 @@
 
 | 게임 | 패처 코드 | 패치 배포 |
 | --- | --- | --- |
-| 모두의 뿌요뿌요 | — | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch/tree/main/gba-minna-puyo) |
+| 모두의 뿌요뿌요 | [gba-minna-puyo-kr-patcher](https://github.com/mcpads/gba-minna-puyo-kr-patcher) | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch/tree/main/gba-minna-puyo) |
 
 ## 슈퍼패미컴
 
 | 게임 | 패처 코드 | 패치 배포 |
 | --- | --- | --- |
-| 슈퍼 뿌요뿌요 2 리믹스 | — | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch/tree/main/sfc-puyopuyo2-remix) |
+| 슈퍼 뿌요뿌요 2 리믹스 | [sfc-puyopuyo2-remix-kr-patcher](https://github.com/mcpads/sfc-puyopuyo2-remix-kr-patcher) | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch/tree/main/sfc-puyopuyo2-remix) |
 | 마도물어 하나마루 대유치원아 | [sfc-madou-kr-patcher](https://github.com/mcpads/sfc-madou-kr-patcher) | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
 | 슈퍼 뿌요뿌요 2 | [sfc-puyopuyo2-kr-patcher](https://github.com/mcpads/sfc-puyopuyo2-kr-patcher) | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch) |
 | 슈퍼 나조 뿌요 1 | [sfc-nazo-rulue1-kr-patcher](https://github.com/mcpads/sfc-nazo-rulue1-kr-patcher) | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch) |
@@ -64,49 +64,49 @@
 | 게임 | 패처 코드 | 패치 배포 |
 | --- | --- | --- |
 | 와쿠와쿠 뿌요뿌요 던전 완전판 | — | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch/tree/main/ps1-waku-puyo) |
-| 뿌요뿌요 BOX | — | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch/tree/main/ps1-puyopuyo-box) |
-| 사립 저스티스 학원 열혈청춘일기 2 | — | [justice-gakuen2-kr-patch](https://github.com/mcpads/justice-gakuen2-kr-patch) |
+| 뿌요뿌요 BOX | [ps1-puyopuyo-box-kr-patcher](https://github.com/mcpads/ps1-puyopuyo-box-kr-patcher) | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch/tree/main/ps1-puyopuyo-box) |
+| 사립 저스티스 학원 열혈청춘일기 2 | [justice-gakuen2-kr-patch](https://github.com/mcpads/justice-gakuen2-kr-patch) | [justice-gakuen2-kr-patch](https://github.com/mcpads/justice-gakuen2-kr-patch) |
 
 ## PlayStation 2
 
 | 게임 | 패처 코드 | 패치 배포 |
 | --- | --- | --- |
-| 뿌요뿌요 2 퍼펙트 셋 | — | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch/tree/main/ps2-puyopuyo2-perfect-set) |
+| 뿌요뿌요 2 퍼펙트 셋 | [ps2-puyopuyo2-kr-patcher](https://github.com/mcpads/ps2-puyopuyo2-kr-patcher) | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch/tree/main/ps2-puyopuyo2-perfect-set) |
 
 ## 닌텐도 DS
 
 | 게임 | 패처 코드 | 패치 배포 |
 | --- | --- | --- |
-| 뿌요뿌요!! 20주년 기념판 | — | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch/tree/main/nds-puyo20) |
+| 뿌요뿌요!! 20주년 기념판 | [nds-puyo20-kr-patcher](https://github.com/mcpads/nds-puyo20-kr-patcher) | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch/tree/main/nds-puyo20) |
 
 ## PSP
 
 | 게임 | 패처 코드 | 패치 배포 |
 | --- | --- | --- |
-| 뿌요뿌요!! 20주년 기념판 | — | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch/tree/main/psp-puyo20) |
+| 뿌요뿌요!! 20주년 기념판 | [psp-puyo20-kr-patcher](https://github.com/mcpads/psp-puyo20-kr-patcher) | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch/tree/main/psp-puyo20) |
 
 ## 드림캐스트
 
 | 게임 | 패처 코드 | 패치 배포 |
 | --- | --- | --- |
 | 뿌요뿌욘 | [dc-puyo-puyon-kr-patcher](https://github.com/mcpads/dc-puyo-puyon-kr-patcher) | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch) |
-| 뿌요뿌요 DA! | — | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch) |
+| 뿌요뿌요 DA! | [dc-puyopuyo-da-kr-patcher](https://github.com/mcpads/dc-puyopuyo-da-kr-patcher) | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch) |
 
 ## MSX2
 
 | 게임 | 패처 코드 | 패치 배포 |
 | --- | --- | --- |
-| 마도물어 II | — | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch/tree/main/msx2-madou2) |
-| 마도사 랄바 | — | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch/tree/main/msx2-lulba) |
+| 마도물어 II | [msx2-madou2-kr-patcher](https://github.com/mcpads/msx2-madou2-kr-patcher) | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch/tree/main/msx2-madou2) |
+| 마도사 랄바 | [msx2-lulba-kr-patcher](https://github.com/mcpads/msx2-lulba-kr-patcher) | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch/tree/main/msx2-lulba) |
 
 ## PC-98
 
 | 게임 | 패처 코드 | 패치 배포 |
 | --- | --- | --- |
 | 마도물어 1-2-3 | [pc98-madou123-kr-patcher](https://github.com/mcpads/pc98-madou123-kr-patcher) | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
-| 마도 사오륙 | — | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
-| 바요엔워즈 대마도전략물어 | — | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
-| 마도물어 A.R.S | — | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
-| 마도물어 도초이문 | — | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
-| 대마도전략물어'95 | — | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
-| 키키모라의 청소 대작전 | — | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
+| 마도 사오륙 | [pc98-madou456-kr-patcher](https://github.com/mcpads/pc98-madou456-kr-patcher) | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
+| 바요엔워즈 대마도전략물어 | [pc98-bayoen-wars-kr-patcher](https://github.com/mcpads/pc98-bayoen-wars-kr-patcher) | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
+| 마도물어 A.R.S | [pc98-madou-ars-kr-patcher](https://github.com/mcpads/pc98-madou-ars-kr-patcher) | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
+| 마도물어 도초이문 | [pc98-madou-docho-kr-patcher](https://github.com/mcpads/pc98-madou-docho-kr-patcher) | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
+| 대마도전략물어'95 | [pc98-daimadou95-kr-patcher](https://github.com/mcpads/pc98-daimadou95-kr-patcher) | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
+| 키키모라의 청소 대작전 | [pc98-kikimora-kr-patcher](https://github.com/mcpads/pc98-kikimora-kr-patcher) | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
