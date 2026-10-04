@@ -30,6 +30,12 @@
 | --- | --- | --- |
 | 아르르의 모험 마법의 주얼 | [gbc-arle-no-bouken-kr-patcher](https://github.com/mcpads/gbc-arle-no-bouken-kr-patcher) | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
 
+## 게임보이 어드밴스
+
+| 게임 | 패처 코드 | 패치 배포 |
+| --- | --- | --- |
+| 모두의 뿌요뿌요 | — | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch/tree/main/gba-minna-puyo) |
+
 ## 슈퍼패미컴
 
 | 게임 | 패처 코드 | 패치 배포 |
