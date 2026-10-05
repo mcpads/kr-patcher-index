@@ -19,6 +19,7 @@
 
 | 게임 | 패처 코드 | 패치 배포 |
 | --- | --- | --- |
+| 나조뿌요 - 아르르의 루 | — | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch/tree/main/gg-nazo-puyo) |
 | 마도물어 I | [gg-madou1-kr-patcher](https://github.com/mcpads/gg-madou1-kr-patcher) | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
 | 마도물어 II | [gg-madou2-kr-patcher](https://github.com/mcpads/gg-madou2-kr-patcher) | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
 | 마도물어 III | [gg-madou3-kr-patcher](https://github.com/mcpads/gg-madou3-kr-patcher) | [madou-monogatari-kr-patch](https://github.com/mcpads/madou-monogatari-kr-patch) |
