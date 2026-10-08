@@ -80,6 +80,12 @@
 | --- | --- | --- |
 | 뿌요뿌요!! 20주년 기념판 | [nds-puyo20-kr-patcher](https://github.com/mcpads/nds-puyo20-kr-patcher) | [puyo-puyo-kr-patch](https://github.com/mcpads/puyo-puyo-kr-patch/tree/main/nds-puyo20) |
 
+## 닌텐도 3DS
+
+| 게임 | 패처 코드 | 패치 배포 |
+| --- | --- | --- |
+| 뿌요뿌요 크로니클 | — | [3ds-puyo-puyo-chronicle-kr-patch](https://github.com/mcpads/3ds-puyo-puyo-chronicle-kr-patch) |
+
 ## PSP
 
 | 게임 | 패처 코드 | 패치 배포 |
